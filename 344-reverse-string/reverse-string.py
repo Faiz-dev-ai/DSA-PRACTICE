@@ -17,7 +17,7 @@ class Solution:
             s[left],s[right] = s[right],s[left]
             reverse(left + 1,right - 1)
         reverse(left,right)
-        return s
+        
 
 
 
