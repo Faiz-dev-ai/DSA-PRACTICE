@@ -5,10 +5,21 @@ class Solution:
         """
         left = 0
         right = len(s)-1
-        while(left<right):
+        # while(left<right):
+        #     s[left],s[right] = s[right],s[left]
+        #     left += 1
+        #     right -= 1
+        # return s
+        """USING RECURSION"""
+        def reverse(left,right):
+            if left >= right:
+                return 
             s[left],s[right] = s[right],s[left]
-            left += 1
-            right -= 1
+            reverse(left + 1,right - 1)
+        reverse(left,right)
         return s
+
+
+
 
         
