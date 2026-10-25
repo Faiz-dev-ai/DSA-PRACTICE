@@ -6,17 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-10-25` |
+| **2** | 0 | 2 | 0 | `2026-10-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [1004. Count all subsequences with sum K](./DSA/General/count-all-subsequences-with-sum-k) | [PY](./DSA/General/count-all-subsequences-with-sum-k/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0002 | [924. Generate Binary Strings Without Consecutive 1s](./DSA/Strings/generate-binary-strings-without-consecutive-1s) | [PY](./DSA/Strings/generate-binary-strings-without-consecutive-1s/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-25` |
 
 ---
 
